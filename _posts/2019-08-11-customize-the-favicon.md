@@ -1,15 +1,13 @@
 ---
-title: Customize the Favicon
+title: 한글도 될까?
 author: Cotes Chung
 date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+categories: [블로그, 자바]
+tags: [마크다운]
 toc: false
 ---
 
-In [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/), the image files of [Favicons](https://www.favicon-generator.org/about/) are placed in `assets/img/favicons/`. You may need to replace them with your own. So let's see how to customize these Favicons.
-
-With a square image (PNG, JPG or GIF) in hand, open the site [*Favicon & App Icon Generator*](https://www.favicon-generator.org/) and upload your original image.
+한글로 쓸거에요
 
 ![upload-image](/assets/img/sample/upload-image.png)
 
@@ -21,7 +19,7 @@ Download the generated package, unzip and delete the following two from the extr
 
 - browserconfig.xml
 - manifest.json
- 
+
 Now, copy the rest image files (`.PNG` and `.ICO`) to cover the original one in folder `assets/img/favicons/`.
 
 Lastly, don't forget to rebuild your site so that the icon becomes your custom edition.
