@@ -3,7 +3,7 @@ title: 리눅스로 구현한 채팅 서버 + 할리갈리 게임
 author: rapidfe
 date: 2021-01-10 09:44:00 +0900
 categories: [Projects]
-tags: [Linux, raspberry pi]
+tags: [linux, raspberry_pi]
 toc: false
 ---
 
