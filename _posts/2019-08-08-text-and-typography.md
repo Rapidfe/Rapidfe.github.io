@@ -79,7 +79,7 @@ Click the hook will locate the footnote[^footnote].
 
 ## Image
 
-![Desktop View](/assets/img/sample/mockup.png)
+![Desktop View](/assets/img/baek/20040.png)
 
 
 ## Inline code
