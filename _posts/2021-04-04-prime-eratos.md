@@ -1,17 +1,25 @@
 ---
-title: (백준)2343. 기타 레슨
+title: 소수 판별, 에라토스테네스의 체
 author: rapidfe
-date: 2021-03-16 01:29:00 +0900
-categories: [알고리즘 c++, 문제]
-tags: [백준, 이분탐색, 스터디 11주차]
+date: 2021-04-04 18:05:00 +0900
+categories: [알고리즘 c++, 내용정리]
+tags: [수학]
 math: true
 ---
 
-# **문제**
+# **개요**
 
 ---
 
-> [https://www.acmicpc.net/problem/2343](https://www.acmicpc.net/problem/2343)
+에라토스테네스가 고안한 소수를 찾는 방법이다. 대표적인 소수 판별 알고리즘으로 쓰이고 있다.
+
+N이하의 자연수에서 \\(\sqrtN\\)이하의 자연수의 배수를 모두 삭제하여, N이하의 소수를 구하는 방법이다.
+
+![eratos](/assets/img/eratos.png)
+
+#### **왜 \\(\sqrtN\\)까지인가?**
+
+소인수 분해를 생각해 보면 간단하다.
 
 
 
