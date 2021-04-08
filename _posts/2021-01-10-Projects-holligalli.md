@@ -55,4 +55,8 @@ Windows Terminal(Ubuntu 20.04) 　←SSH→　 Raspberry pi 4 Model B(Raspbian)
 
 ---
 
+> [[소스 코드 Github]](https://github.com/Rapidfe/MyFiles/tree/master/term)
+>
 > [[채팅 구현 참고 블로그]](https://good-coding.tistory.com/17)
+>
+> [[WiringPi 참고 블로그]](https://hoho325.tistory.com/212)
