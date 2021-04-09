@@ -50,6 +50,8 @@ Windows Terminal(Ubuntu 20.04) 　←SSH→　 Raspberry pi 4 Model B(Raspbian)
 3. Terminal에서 SSH로 라즈베리파이에 접속한다.
 
    ~/.ssh/config 에서 Host별 설정을 해두면 SSH 접속을 쉽게 할 수 있다.
+   
+   > [[참고 블로그]](http://taewan.kim/post/ssh_config/)
 
 # **구현**
 
