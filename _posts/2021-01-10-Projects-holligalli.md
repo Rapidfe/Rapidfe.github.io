@@ -1,5 +1,5 @@
 ---
-title: 임베디드 프로젝트 - 할리갈리 게임 모듈
+title: 임베디드 시스템 프로젝트 - 할리갈리 게임 모듈
 author: rapidfe
 date: 2021-01-10 09:44:00 +0900
 categories: [Projects]
@@ -13,7 +13,7 @@ math: true
 
 ---
 
-디바이스 드라이버, 소켓통신, 멀티스레드, HTML의 기초를 실습하기 위해 고안한 할리갈리 게임 모듈 제작 프로젝트다.
+Device Driver, Socket 통신, Multi Thread, HTML의 기초를 실습한 할리갈리 게임 모듈 제작 프로젝트다.
 
 #### **환경**
 
